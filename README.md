@@ -3,10 +3,10 @@
 I'm a Software Developer at Banco do Estado do Rio Grande do Sul - Banrisul . 
 
 __A little about myself :__ 
-- 🔭 I’m currently working at __Banrisul (Banco do Rio Grande do Sul)__ as a **Software Developer** since **February/2023**
+- 🔭 I’m currently working at __Dataprev__ as a **Software Developer** since **January/2024**
 - 🌱 Currently, I am working with the following technologies:   
     
-  C# , ASP NET, JavaScript, Jquery, DB2 and Oracle
+  JAVA , SpringBoot, JavaScript and Oracle
    
 
  <h2>Contact Me </h2>
