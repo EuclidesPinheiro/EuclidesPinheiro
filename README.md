@@ -1,6 +1,6 @@
 # Hello, visitor 👋 <h1>
 
-I'm a Software Developer at Banco do Estado do Rio Grande do Sul - Banrisul . 
+I'm a Software Developer at Dataprev . 
 
 __A little about myself :__ 
 - 🔭 I’m currently working at __Dataprev__ as a **Software Developer** since **January/2024**
